@@ -14,7 +14,7 @@ const AddProducts = () => {
             weight: data.weight,
             imageURl: imageURL
         };
-        const url =`http://localhost:5055/addProducts`
+        const url =`https://thawing-wave-03262.herokuapp.com/addProducts`
         console.log(productData);
         fetch(url, {
             method: 'POST',

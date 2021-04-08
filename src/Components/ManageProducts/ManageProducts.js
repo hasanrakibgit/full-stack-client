@@ -5,7 +5,7 @@ const ManageProducts = () => {
 
     const [manageProducts, setManageProducts] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5055/manageProducts')
+        fetch('https://thawing-wave-03262.herokuapp.com/manageProducts')
             .then(res => res.json())
             .then(data => setManageProducts(data))
     }, []);
@@ -16,7 +16,7 @@ const ManageProducts = () => {
     }
     const deleteProduct = id => {
 
-        fetch(`http://localhost:5055/deleteProduct/${id}`, {
+        fetch(`https://thawing-wave-03262.herokuapp.com/deleteProduct/${id}`, {
             method: 'DELETE',
 
         })

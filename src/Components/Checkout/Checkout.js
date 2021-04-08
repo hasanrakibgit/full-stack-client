@@ -8,7 +8,7 @@ const Checkout = () => {
     const [checkOut, setCheckOut] = useState([]);
     const {productId} = useParams();
     useEffect(()=> {
-        fetch('http://localhost:5055/products')
+        fetch('https://thawing-wave-03262.herokuapp.com/products')
         
         .then(res => res.json())
         .then(data => setCheckOut(data))
@@ -18,7 +18,7 @@ const Checkout = () => {
     console.log(result[0])
     const placeOrder =()=>{
         const newOrder = {...loggedInUser, ...result, orderTime: new Date()}
-        fetch('http://localhost:5055/placeOrder',{
+        fetch('https://thawing-wave-03262.herokuapp.com/placeOrder',{
             method: 'POST',
             headers: {'Content-Type' : 'application/json'},
             body: JSON.stringify(newOrder)
@@ -31,7 +31,7 @@ const Checkout = () => {
         })
     }
     return (
-        <div>
+        <div style ={{textAlign:'center'}}>
             <h2>Hello {loggedInUser.displayName}, thanks for selecting this item.</h2>
             <h3>You Have select {result[0]?.name} </h3> 
             <h5>Weight is {result[0]?.weight} </h5>
