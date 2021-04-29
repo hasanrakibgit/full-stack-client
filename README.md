@@ -1,5 +1,5 @@
 # This site is made for online Sweets Shop.
-## I give a name called "SWEET VILLAGE"
+## I give a name called "MISTI VILLAGE"
 ### Admin of this site can easily add new products and delete products.
 ### This site is totally based on mongodb. Data are being upload and directly send to data based and fetch back for showing on UI. 
 ### Site is deployed in firebase and it has also authentication system.
