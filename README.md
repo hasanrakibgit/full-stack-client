@@ -1,4 +1,4 @@
-# Misti Village
+# Misti Village (Client Side)
 ## E-commerce site for ordering sweets online.
 ### Live site link is https://misti-village.web.app/
 ### Client site code link is https://github.com/Porgramming-Hero-web-course/full-stack-client-hasanrakibgit
