@@ -4,13 +4,13 @@
 ### Client site code link is https://github.com/Porgramming-Hero-web-course/full-stack-client-hasanrakibgit
 ### Server site code link is https://github.com/Porgramming-Hero-web-course/full-stack-server-hasanrakibgit
 
-##Features
+<h3> 👨🏻‍💻 &nbsp;Features </h3>
 ### It has login/logout system.
 ### Admin of this site can easily add new products and delete products.
 ### This site is totally based on database. Data are being uploaded and directly send to database and fetch back for showing on UI. 
 ### You can see your order summary.
 
-## Technology Used
+<h3> 🛠 &nbsp;Technologies Used</h3>
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
