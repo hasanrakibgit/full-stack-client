@@ -5,10 +5,10 @@
 ### Server site code link is https://github.com/Porgramming-Hero-web-course/full-stack-server-hasanrakibgit
 
 <h3> 👨🏻‍💻 &nbsp;Features </h3>
-### It has login/logout system.
-### Admin of this site can easily add new products and delete products.
-### This site is totally based on database. Data are being uploaded and directly send to database and fetch back for showing on UI. 
-### You can see your order summary.
+- 🤔 &nbsp; It has login/logout system.
+- 🎓 &nbsp; Admin of this site can easily add new products and delete products.
+- 💼 &nbsp; This site is totally based on database. Data are being uploaded and directly send to database and fetch back for showing on UI. 
+- 💼 &nbsp; You can see your order summary.
 
 <h3> 🛠 &nbsp;Technologies Used</h3>
 - 🌐 &nbsp;
@@ -26,6 +26,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+<br/>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/rakibul-hasan-70667b90/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rakibul Hasan-blue?style=flat-square&logo=linkedin"></a>
+<a href="rakibul.tqs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rakibul.tqs@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
